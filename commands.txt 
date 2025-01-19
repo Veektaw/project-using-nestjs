@@ -1,0 +1,7 @@
+nest new project
+
+yarn run start:dev   
+
+nest g module songs
+
+nest g controller songs  
