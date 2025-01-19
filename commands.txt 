@@ -1,7 +1,9 @@
 nest new project
 
-yarn run start:dev   
+yarn run start:dev - to start in development
 
-nest g module songs
+nest g module songs - to create a module
 
-nest g controller songs  
+nest g controller songs  - to create a controller 
+
+nest g service songs - to create a service
