@@ -25,10 +25,10 @@ export class SongsController {
         
     }
 
-    // @Get(":id")
-    // findOne(): string {
-    //     return `This action returns a song`;
-    // }
+    @Get(":id")
+    findOne(): string {
+        return `This action returns a song`;
+    }
 
     // @Put(":id")
     // update(): string {
